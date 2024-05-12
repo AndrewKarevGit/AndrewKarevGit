@@ -1,5 +1,5 @@
 # Hi there 👋
-#### I'm a Backend Developer, currently looking for a job
+#### I'm a Java Backend Developer, currently looking for a job
 #### How to contact me: Just send email to karev.andrew.workmail@gmail.com
 #### My education: I'm studing in 09.03.01 Informatics and Computer Engineering
 #### Additional education: [JavaRush course](https://javarush.com/users/3430566)
